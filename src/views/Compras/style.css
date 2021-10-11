@@ -1,0 +1,31 @@
+:root {
+    --colorTexto: #ffffff;
+    --colorFoot: #229954;    
+}
+
+.productos {
+    display: flex;
+    flex-flow: row wrap; 
+}
+
+.compra {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    bottom: 0px;
+}
+
+.compra-button {
+    font-size: 1.5rem;
+    margin: 20px 0px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: var(--colorTexto);
+    background-color: var(--colorFoot);
+}
+
+.compra-button:hover {
+    filter: opacity(90%);
+}

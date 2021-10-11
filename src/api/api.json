@@ -1,0 +1,43 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "title": "Zapato",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+
+    {
+        "precio": 1000,
+        "id": 2,
+        "title": "Tablet",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+
+    {
+        "precio": 2000,
+        "id": 3,
+        "title": "Abrigo",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+
+    {
+        "precio": 300,
+        "id": 4,
+        "title": "Camisa",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+
+    {
+        "precio": 1500,
+        "id": 5,
+        "title": "Tenis deportivos",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+
+    {
+        "precio": 900,
+        "id": 6,
+        "title": "Pérfume",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    }
+]

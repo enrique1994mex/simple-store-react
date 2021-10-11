@@ -1,0 +1,55 @@
+:root {
+    --fondoCard: #82E0AA;
+    --colorTexto: #ffffff;
+    --colorFoot: #229954;    
+}
+
+.card-div {
+    max-width: 500px;
+    background-color: var(--fondoCard);
+    color: var(--colorTexto);
+    border-radius: 10px;
+    margin: 10px 15px;
+    flex: 1 1 250px;
+    overflow: hidden;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-description {
+    padding: 10px 10px;
+}
+
+.card-stars {
+    display: flex;
+}
+
+.card-foot {
+    display: flex;
+    background-color: var(--colorFoot);
+    padding: 10px 5px;
+}
+
+.card-botton {
+    margin: 5px;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+    color: var(--colorTexto);
+    background-color: var(--colorFoot);
+    font-size: 1rem;
+}
+
+.card-botton:hover {
+    border-radius: 10px;
+    background-color: var(--fondoCard);
+}
+
+.card-botton-product {
+    color: var(--colorTexto);
+    text-decoration: none;
+}
+
+

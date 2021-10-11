@@ -1,0 +1,68 @@
+:root {
+    --fondoBarra: #33ACFF;
+    --colorTexto: #ffffff; 
+}
+
+.barra-nav {
+    background-color: var(--fondoBarra);
+    position: sticky;
+    top: 0px; 
+}
+
+.barra-ul {
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.barra-ul li {
+    padding: 15px 35px;
+}
+
+.principal {
+    flex: 1;
+    order: 1;
+}
+
+.toggle {
+    order: 2;
+}
+
+.second {
+    order: 3;
+    width: 100%;
+    text-align: center;
+    display: none;
+}
+
+.second.active {
+    display: block;
+}
+
+
+.barra-li {
+    text-decoration: none;
+    color: var(--colorTexto);
+    font-size: 1.5rem;
+}
+
+.icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* desktop menu */ 
+@media all and (min-width: 900px) {
+    .toggle {
+        display: none;
+    }
+
+    .second {
+        width: auto;
+        display: block;
+    }
+}
+
+

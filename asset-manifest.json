@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-store-react/static/css/main.6299c3cf.chunk.css",
+    "main.js": "/simple-store-react/static/js/main.8176611d.chunk.js",
+    "main.js.map": "/simple-store-react/static/js/main.8176611d.chunk.js.map",
+    "runtime-main.js": "/simple-store-react/static/js/runtime-main.01bdca39.js",
+    "runtime-main.js.map": "/simple-store-react/static/js/runtime-main.01bdca39.js.map",
+    "static/js/2.ada189f7.chunk.js": "/simple-store-react/static/js/2.ada189f7.chunk.js",
+    "static/js/2.ada189f7.chunk.js.map": "/simple-store-react/static/js/2.ada189f7.chunk.js.map",
+    "static/js/3.a9680898.chunk.js": "/simple-store-react/static/js/3.a9680898.chunk.js",
+    "static/js/3.a9680898.chunk.js.map": "/simple-store-react/static/js/3.a9680898.chunk.js.map",
+    "index.html": "/simple-store-react/index.html",
+    "static/css/main.6299c3cf.chunk.css.map": "/simple-store-react/static/css/main.6299c3cf.chunk.css.map",
+    "static/js/2.ada189f7.chunk.js.LICENSE.txt": "/simple-store-react/static/js/2.ada189f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01bdca39.js",
+    "static/js/2.ada189f7.chunk.js",
+    "static/css/main.6299c3cf.chunk.css",
+    "static/js/main.8176611d.chunk.js"
+  ]
+}

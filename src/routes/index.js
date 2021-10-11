@@ -7,7 +7,7 @@ import SignIn from "../views/Registro/SignIn/SignIn";
 
 export default function Routers() {
     return(
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <Switch>
                 <Route path="/" exact>
                     <Productos/>
